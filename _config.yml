@@ -21,14 +21,14 @@ repository               : "academicpages/AaronsCen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./images/bio-photo.png"
   name             : "Shi (Aaron) Cen"
   pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Raleigh, NC, USA"
+  employer         : "North Carolina State University"
+  uri              : "AaronsCen.github.io"
+  email            : "scen2@ncsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

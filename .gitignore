@@ -1,6 +1,9 @@
 # Ignore the contents of the _site directory
 _site/
 
+# Local source document for public website content
+/Shi_Cen_Master_CV.pdf
+
 # Ignore the directory for local files during development
 local/
 

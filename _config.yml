@@ -8,47 +8,47 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shi (Lukas) Cen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://AaronsCen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/AaronsCen.github.io"
+name                     : &name "Shi (Lukas) Cen"
+description              : &description "Ph.D. student at NC State working on phylodynamics, Bayesian modeling, and statistical genomics."
+url                      : "https://shicenncsu.github.io"
+baseurl                  : "/LukasCen.github.io"
+repository               : "ShiCenNCSU/LukasCen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.JPG"
-  name             : "Shi (Aaron) Cen"
+  avatar           : "bio-photo.jpg"
+  name             : "Shi (Lukas) Cen"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. student in Bioinformatics, co-major in Statistics"
   location         : "Raleigh, NC, USA"
   employer         : "North Carolina State University"
-  uri              : "AaronsCen.github.io"
+  uri              :
   email            : "scen2@ncsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=eDgLx0kAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ShiCenNCSU"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -75,12 +75,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -116,7 +114,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true
   path                   : # blank (default) uses feed.xml
 
 
@@ -156,6 +154,25 @@ include:
   - _pages
   - files
 exclude:
+  - Shi_Cen_Master_CV.pdf
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -177,7 +194,7 @@ exclude:
   - node_modules
   - package.json*
   - Rakefile
-  - README
+  - README.md
   - tmp
   - vendor
 keep_files:

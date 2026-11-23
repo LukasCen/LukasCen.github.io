@@ -12,7 +12,7 @@ My research spans statistical genomics, evolutionary dynamics, and Bayesian infe
 
 With David A. Rasmussen and Brian J. Reich at NC State, I developed BayesMFBD, a Bayesian framework for estimating genetic fitness effects and interactions from evolutionary trees. I use simulations to study when these effects can be estimated reliably and how uncertainty changes with the amount and structure of the data.
 
-[BayesMFBD on GitHub](https://github.com/ShiCenNCSU/BayesMFBD) · [Preprint](https://doi.org/10.64898/2026.10.19.760109)
+[BayesMFBD on GitHub](https://github.com/LukasCen/BayesMFBD) · [Preprint](https://doi.org/10.64898/2026.10.19.760109)
 
 ## Recombination breakpoint localization
 

@@ -13,4 +13,4 @@ My research focuses on phylogenetics and phylodynamics. I’m interested in what
 
 I’m also interested in simulation-based inference for biological models that are difficult to fit directly. I use simulations to test when a method can recover a known pattern and how sensitive its estimates are to the available data and modeling assumptions. These questions connect my interests in statistical genomics, infectious disease dynamics, and biomedical modeling.
 
-[Explore my research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }})
+[Explore my research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [CV]({{ '/curriculum-vitae/' | relative_url }})

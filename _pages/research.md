@@ -10,7 +10,11 @@ My research spans statistical genomics, evolutionary dynamics, and Bayesian infe
 
 ## Bayesian phylodynamics
 
-With David A. Rasmussen and Brian J. Reich at NC State, I developed BayesMFBD, a Bayesian framework for estimating genetic fitness effects and interactions from evolutionary trees. I use simulations to study when these effects can be estimated reliably and how uncertainty changes with the amount and structure of the data.
+My doctoral research with David A. Rasmussen and Brian J. Reich at NC State asks what evolutionary trees can tell us about genetic differences in fitness. A tree records how lineages branch over time. When several genetic features are inherited together, it becomes difficult to tell how much each one contributes to differences in lineage growth.
+
+I developed BayesMFBD, a Bayesian multi-feature birth–death model that uses an evolutionary tree and genomic data to estimate associations between genetic features and lineage growth. The model estimates individual effects and interactions, including epistasis, where the effect of one feature depends on another. It quantifies how much uncertainty surrounds those estimates.
+
+I use simulated trees with known histories to assess how accurately the model recovers individual effects and how often its credible intervals contain the true values. I vary tree size and the correlation among genetic features to learn when the estimates are reliable. I also apply the framework to existing bacterial genomic data and compare how different models estimate overall fitness and attribute effects to individual features.
 
 [BayesMFBD on GitHub](https://github.com/LukasCen/BayesMFBD) · [Preprint](https://doi.org/10.64898/2026.10.19.760109)
 

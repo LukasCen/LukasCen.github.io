@@ -7,6 +7,9 @@ _site/
 # Ignore the directory for local files during development
 local/
 
+# macOS Finder metadata
+.DS_Store
+
 # Ignore the Gemfile that is generated
 Gemfile.lock
 

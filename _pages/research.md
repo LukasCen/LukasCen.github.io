@@ -10,7 +10,7 @@ My research spans statistical genomics, evolutionary dynamics, and Bayesian infe
 
 ## Bayesian phylodynamics
 
-My doctoral research with David A. Rasmussen and Brian J. Reich at NC State asks what evolutionary trees can tell us about genetic differences in fitness. A tree records how lineages branch over time. When several genetic features are inherited together, it becomes difficult to tell how much each one contributes to differences in lineage growth.
+My doctoral research with [David A. Rasmussen](https://cals.ncsu.edu/entomology-and-plant-pathology/people/drasmus/) and [Brian J. Reich](https://statistics.sciences.ncsu.edu/people/bjreich/) at NC State asks what evolutionary trees can tell us about genetic differences in fitness. A tree records how lineages branch over time. When several genetic features are inherited together, it becomes difficult to tell how much each one contributes to differences in lineage growth.
 
 I developed BayesMFBD, a Bayesian multi-feature birth–death model that uses an evolutionary tree and genomic data to estimate associations between genetic features and lineage growth. The model estimates individual effects and interactions, including epistasis, where the effect of one feature depends on another. It quantifies how much uncertainty surrounds those estimates.
 
@@ -26,7 +26,7 @@ I benchmarked three methods for identifying recombination breakpoints using data
 
 ## Cardiovascular modeling
 
-I work with Brian J. Reich, Mette S. Olufsen, and Charles Puelz on models of blood-flow wave propagation. I use vessel geometry from cardiovascular images and develop Bayesian and simulation-based methods to quantify uncertainty in biomechanical parameters.
+I work with [Brian J. Reich](https://statistics.sciences.ncsu.edu/people/bjreich/), Mette S. Olufsen, and Charles Puelz on models of blood-flow wave propagation. I use vessel geometry from cardiovascular images and develop Bayesian and simulation-based methods to quantify uncertainty in biomechanical parameters.
 
 ## Other projects
 

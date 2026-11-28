@@ -16,7 +16,7 @@ I developed BayesMFBD, a Bayesian multi-feature birth–death model that uses an
 
 I use simulated trees with known histories to assess how accurately the model recovers individual effects and how often its credible intervals contain the true values. I vary tree size and the correlation among genetic features to learn when the estimates are reliable. I also apply the framework to existing bacterial genomic data and compare how different models estimate overall fitness and attribute effects to individual features.
 
-[BayesMFBD on GitHub](https://github.com/LukasCen/BayesMFBD) · [Preprint](https://doi.org/10.64898/2026.10.19.760109)
+[BayesMFBD on GitHub](https://github.com/LucianCen/BayesMFBD) · [Preprint](https://doi.org/10.64898/2026.10.19.760109)
 
 ## Recombination breakpoint localization
 

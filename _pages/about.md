@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Shi Cen, a Ph.D. student in Bioinformatics with a co-major in Statistics at North Carolina State University, where I work with [David A. Rasmussen](https://phylodynamics.wordpress.ncsu.edu/) and [Brian J. Reich](https://statistics.sciences.ncsu.edu/people/bjreich/). I develop statistical methods for learning about evolutionary and biomedical processes from biological data.
+I’m Shi Cen, a Ph.D. student in Bioinformatics with a co-major in Statistics at North Carolina State University, where I work with [David A. Rasmussen](https://phylodynamics.wordpress.ncsu.edu/) and [Brian J. Reich](https://bjreich.wordpress.ncsu.edu/). I develop statistical methods for learning about evolutionary and biomedical processes from biological data.
 
 My research focuses on phylogenetics and phylodynamics. I’m interested in what evolutionary trees can tell us about how populations change over time and how genetic variation relates to differences in fitness. I draw on Bayesian hierarchical and spatial modeling to account for structure in the data and quantify uncertainty about the processes that generated it.
 
